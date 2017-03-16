@@ -2,6 +2,14 @@
 
 Some tools to use for development.
 
+### Developer Tools
+
+Sign up for JetBrains Student Account [Apply](https://www.jetbrains.com/shop/eform/students)
+
+Download JetBrains Toolbox [Download](https://download.jetbrains.com/toolbox/jetbrains-toolbox-1.2.2259.exe)
+
+Its taskbar icon, can download all JetBrain apps from it... it also track projects!
+
 ### Setting Up Web Development
 
 Install WAMP [Download](https://sourceforge.net/projects/wampserver/files/WampServer%203/WampServer%203.0.0/wampserver3.0.6_x64_apache2.4.23_mysql5.7.14_php5.6.25-7.0.10.exe/download)
